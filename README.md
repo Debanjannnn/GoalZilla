@@ -49,7 +49,7 @@ Welcome to **GoalZilla** — your ultimate milestone-based crowdfunding platform
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/manovHacksaw/GoalZilla.git
+   https://github.com/Debanjannnn/GoalZilla
    ```
 
 2. **Navigate to the Project Directory**:
